@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61e68e626dabd940321a774e"
+  },
+  "MaCH": "12345",
+  "MaMonAn": "1",
+  "TenMonAn": "Bánh mì heo quay",
+  "GiaBan": 22000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e68e7d6dabd940321a7753"
+  },
+  "MaCH": "12345",
+  "MaMonAn": "2",
+  "TenMonAn": "Bánh mì thịt - loại đặc biệt",
+  "GiaBan": 25000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e68edf6dabd940321a7760"
+  },
+  "MaCH": "1234",
+  "MaMonAn": "1",
+  "TenMonAn": "Trà sữa truyền thống",
+  "GiaBan": 22000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e68ef26dabd940321a7765"
+  },
+  "MaCH": "1234",
+  "MaMonAn": "2",
+  "TenMonAn": "Sữa tươi trân châu đường đen",
+  "GiaBan": 25000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e68f086dabd940321a776a"
+  },
+  "MaCH": "1234",
+  "MaMonAn": "3",
+  "TenMonAn": "Trà sữa Matcha ",
+  "GiaBan": 22000,
+  "__v": 0
+}]

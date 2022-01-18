@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61e6914a6dabd940321a77b0"
+  },
+  "TenMonAn": "Bánh mì heo quay",
+  "SoLuong": 3,
+  "ThanhTien": 66000,
+  "user_id": "61e68da36dabd940321a7733",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e692096dabd940321a77cf"
+  },
+  "TenMonAn": "Trà sữa Matcha ",
+  "SoLuong": 2,
+  "ThanhTien": 44000,
+  "user_id": "61e691c96dabd940321a77c3",
+  "__v": 0
+}]

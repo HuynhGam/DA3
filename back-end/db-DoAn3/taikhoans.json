@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "61c484dec3dc5bc4a29a14d3"
+  },
+  "HoTen": "Admin",
+  "Email": "oderfood11@gmail.com",
+  "MatKhau": "$2b$12$4AtPeKpldH2fMk5hoRQqieyV5Ebjnijrqikavxe8E8zm.7O0kVbDO",
+  "VaiTro": 0,
+  "createdAt": {
+    "$date": "2021-12-23T14:17:02.053Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-31T08:12:57.360Z"
+  },
+  "__v": 0,
+  "SDT": "0339554287"
+},{
+  "_id": {
+    "$oid": "61e68da36dabd940321a7733"
+  },
+  "HoTen": "Nguyễn Hùng Cường",
+  "Email": "cuongnguyenhung@gmail.com",
+  "MatKhau": "$2b$12$wAo.i0MT6iXhPdnvQBJz8edlts1vlvcssD/lyg6D5cORITn5mk44O",
+  "SDT": "0123456789",
+  "DiaChi": "Mâu thân, Phường An Hòa, Quận Ninh kiều, Thành Phố Cần Thơ",
+  "VaiTro": 1,
+  "createdAt": {
+    "$date": "2022-01-18T09:51:31.812Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T10:04:28.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e68e036dabd940321a773c"
+  },
+  "HoTen": "Nguyễn Lưu Ngọc Yến",
+  "Email": "ngocyen@gmail.com",
+  "MatKhau": "$2b$12$rCxEa0O.hlzDF.AffWCEZ.DG89TQdVU5mjhATusXa0BsY8P1MYo6y",
+  "SDT": "043622879",
+  "VaiTro": 2,
+  "createdAt": {
+    "$date": "2022-01-18T09:53:07.601Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T10:06:20.820Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e691c96dabd940321a77c3"
+  },
+  "HoTen": "Hồng Gấm",
+  "Email": "honggam@gmail.com",
+  "MatKhau": "$2b$12$Va6aM.BVzd8dSBFAznjy5OqSE7sqmXSiUyWIF0Oiwv.Iu4MNp2Kfu",
+  "SDT": "0123456789",
+  "DiaChi": "30/4, Cần Thơ",
+  "VaiTro": 1,
+  "createdAt": {
+    "$date": "2022-01-18T10:09:13.263Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T10:11:22.927Z"
+  },
+  "__v": 0
+}]

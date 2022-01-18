@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "61e68e306dabd940321a7743"
+  },
+  "MaCH": "12345",
+  "TenCH": "Bánh mì SG",
+  "DiaChi": "12 Mậu Thân, Phường An Hòa, Quận Ninh Kiều, Thành Phố Cần Thơ  ",
+  "createdAt": {
+    "$date": "2022-01-18T09:53:52.599Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T09:53:52.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e68e4c6dabd940321a7748"
+  },
+  "MaCH": "1234",
+  "TenCH": "Trà Sữa Star",
+  "DiaChi": "Nguyễn Văn Linh, Cần Thơ",
+  "createdAt": {
+    "$date": "2022-01-18T09:54:20.701Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T09:58:00.863Z"
+  },
+  "__v": 0
+}]
